@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Missラブ探偵",
+  "base_artist": "W",
+  "createdAt": "2026-02-15T14:17:57.121761Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Missラブ探偵",
+      "artist": "W",
+      "has_synced": false,
+      "path": "select/pl_01_Missラブ探偵_W.txt"
+    }
+  ]
+}
